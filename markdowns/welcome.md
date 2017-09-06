@@ -10,18 +10,18 @@ Machine Learning is an application of Artificial Intelligence which provides the
 
 Supervised learning is the process of an algorithm learning from the training set (historical data). 
 
-We will pass the data to train the algorithm and also the data to test the algorithm. The algorithm will be trained till it reaches the accuracy.we can predict the output for the given input once algorithm reaches the accuracy with the training and testing data.
+We will pass the data to train the algorithm and also the data to test the algorithm. The algorithm will be trained till it reaches the accuracy. We can predict the output for the given input once algorithm reaches the accuracy with the training and testing data.
 
-They are further grouped into regression and classification problems. 
+They are further grouped into regression and classification problems:
 
-1. <B>Classification : </B>Output variable is a category like yes or no,disease or no disease 
-2. <B>Regression : </B>Output variable is a real value like weight , price.
+1. <B>Classification : </B>Output variable is a category like yes or no, disease or no disease 
+2. <B>Regression : </B>Output variable is a real value like weight, price.
 
 # Unsupervised learning
 
 There are no training sets to train the alogorithm in unsupervised learning.i.e., we only have the input data (X) and no corresponding output data.
 
-Unsupervised learning problems can be further grouped into clustering and association problems.
+Unsupervised learning problems can be further grouped into clustering and association problems:
 
 1. <B>Clustering : </B>It is discovering the inherent grouping in data like grouping the customer by purchasing behaviour 
 2. <B>Association : </B>To discover rules that describe large portions of your data, such as people that buy X also tend to buy Y.
@@ -46,7 +46,7 @@ In logistic regression, the outcome (dependent variable) has only a limited numb
 
 Our model needs to see lot of possible data to understand which characteristics are those of the object in question. To have a model that generalizes well, you need to ensure this works irrespective of background, color intensities, sizes, etc.
 Example:
-we may need thousands to millions of such images to achieve decent feature extraction that lead to low classification accuracy. we don't need a million unique samples to test if your model has learnt the above and having a few samples of each type of cat should be enough of a test.
+we may need thousands to millions of such images to achieve decent feature extraction that lead to low classification accuracy. We don't need a million unique samples to test if your model has learnt the above and having a few samples of each type of cat should be enough of a test.
 
 # Sample Training and Testing Data
 <B> Training Data </B>  
